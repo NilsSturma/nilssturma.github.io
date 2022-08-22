@@ -20,4 +20,5 @@ Interests
 
 Education
 ======
-TO BE WRITTEN.
+* MSc in Mathematical Finance and Actuarial Science, 2021, *TU Munich*
+* Bsc in Mathematics, 2018, *University of Freiburg*
