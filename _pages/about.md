@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student supervised by Mathias Drton. My current research focuses on various aspects of graphical models. These models have multiple applications, for example, in the context of causal discovery. Among other things, the aim is to investigate under which circumstances observational data allows conclusions about causal relationships. To tackle problems in statistics, I particularly like to use methods from algebraic geometry.
+I am a PhD Student at TU Munich, supervised by Mathias Drton. My current research focuses on various aspects of graphical models. These models have multiple applications, for example, in the context of causal discovery. Among other things, the aim is to investigate under which circumstances observational data allows conclusions about causal relationships. To tackle problems in statistics, I particularly like to use methods from algebraic geometry.
 
 I was lucky enough to visit MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
