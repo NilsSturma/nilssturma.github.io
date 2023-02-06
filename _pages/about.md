@@ -24,4 +24,4 @@ Education
 ======
 * MSc in Mathematical Finance and Actuarial Science, 2021, *TU Munich, Germany*
 * BSc in Mathematics, 2018, *University of Freiburg, Germany*
-* Semester abroad in Seville (Spain) and Melbourne (Australia)
+* Two semesters abroad in Seville (Spain) and Melbourne (Australia)
