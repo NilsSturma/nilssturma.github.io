@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### SIAM Conference on Applied Algebraic Geometry, Eindhoven, Netherlands (2023)
-Talk: Introduction to Algebraic Methods in Graphical Models
+Talk: Introduction to Algebraic Methods in Graphical Models \
 [Slides](https://nilssturma.github.io/files/presentation_SIAM_AG23.pdf)
 
 ### Workshop on Causal Representation Learning, Tübingen, Germany (2023)
