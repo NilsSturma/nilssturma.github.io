@@ -15,15 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
-### Unpaired Multi-Domain Causal Representation Learning
-Nils Sturma, Chandler Squires, Mathias Drton and Caroline Uhler (2023). \
-*Preprint.* \
-[arXiv](https://arxiv.org/abs/2302.00993)
-
 ### Testing Many and Possibly Singular Polynomial Constraints
 Nils Sturma, Mathias Drton and Dennis Leung (2022). \
 *Preprint.* \
 [arXiv](https://arxiv.org/abs/2208.11756)
+
+### Unpaired Multi-Domain Causal Representation Learning
+Nils Sturma, Chandler Squires, Mathias Drton and Caroline Uhler (2023). \
+*To appear in Advances in Neural Information Processing
+Systems 36 (NeurIPS 2023).* \
+[arXiv](https://arxiv.org/abs/2302.00993)
+
+
 
 ### Half-Trek Criterion for Identifiability of Latent Variable Models
 Rina Foygel Barber, Mathias Drton, Nils Sturma and Luca Weihs (2022). \
