@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
-### Testing Many and Possibly Singular Polynomial Constraints
+### Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics
 Nils Sturma, Mathias Drton and Dennis Leung (2022). \
 *Preprint.* \
 [arXiv](https://arxiv.org/abs/2208.11756)
