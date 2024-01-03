@@ -32,8 +32,6 @@ with Chandler Squires, Mathias Drton and Caroline Uhler. \
 Systems 36 (NeurIPS 2023, Spotlight paper).* \
 [arXiv](https://arxiv.org/abs/2302.00993)
 
-
-
 ### Half-Trek Criterion for Identifiability of Latent Variable Models
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
 *The Annals of Statistics, 2022, Vol. 50, No. 6, 3174–3196.* \

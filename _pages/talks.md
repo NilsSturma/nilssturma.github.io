@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### NeurIPS, New Orleans, USA (2023)
+Poster presentation: Unpaired Multi-Domain Causal Representation Learning \
+[Poster](https://nilssturma.github.io/files/multi_domain_crl.pdf)
+
 ### SIAM Conference on Applied Algebraic Geometry, Eindhoven, Netherlands (2023)
 Talk: Introduction to Algebraic Methods in Graphical Models \
 [Slides](https://nilssturma.github.io/files/presentation_SIAM_AG23.pdf)
