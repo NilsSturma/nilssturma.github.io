@@ -30,7 +30,7 @@ with Mathias Drton and Dennis Leung. \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
 *To appear in Advances in Neural Information Processing
 Systems 36 (NeurIPS 2023, Spotlight paper).* \
-[arXiv](https://arxiv.org/abs/2302.00993)
+[arXiv](https://arxiv.org/abs/2302.00993), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf)
 
 ### Half-Trek Criterion for Identifiability of Latent Variable Models
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
