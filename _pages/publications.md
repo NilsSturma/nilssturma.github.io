@@ -16,6 +16,11 @@ author_profile: true
 {% endfor %}
  -->
 
+### Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices
+with Dennis Leung. \
+*Preprint (submitted).* \
+[arXiv](https://arxiv.org/abs/2401.02112)
+
 ### Algebraic Sparse Factor Analysis
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 *Preprint (submitted).* \
