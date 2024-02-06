@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,20 +16,26 @@ author_profile: true
 {% endfor %}
  -->
 
+# Preprints
+
+### Mixtures of Discrete Decomposable Graphical Models
+with Yulia Alexandr and Jane Ivy Coons. \
+[arXiv](https://arxiv.org/abs/2401.15950)
+
 ### Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices
 with Dennis Leung. \
-*Preprint (submitted).* \
 [arXiv](https://arxiv.org/abs/2401.02112)
 
 ### Algebraic Sparse Factor Analysis
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
-*Preprint (submitted).* \
 [arXiv](https://arxiv.org/abs/2312.14762)
 
 ### Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics
 with Mathias Drton and Dennis Leung. \
-*Preprint (submitted).* \
 [arXiv](https://arxiv.org/abs/2208.11756)
+
+
+# Publications
 
 ### Unpaired Multi-Domain Causal Representation Learning
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
