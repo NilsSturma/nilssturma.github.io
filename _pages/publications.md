@@ -32,12 +32,12 @@ with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 [arXiv](https://arxiv.org/abs/2312.14762) 
 
 
+# Publications
+
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
+*To appear in The Journal of the Royal Statistical Society, Series B.* \
 [arXiv](https://arxiv.org/abs/2208.11756)
-
-
-# Publications
 
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
