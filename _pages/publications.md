@@ -42,7 +42,7 @@ with Mathias Drton and Dennis Leung. \
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
 *NeurIPS 2023, Spotlight paper.* \
-[arXiv](https://arxiv.org/abs/2302.00993), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
+[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
 
 
 **Half-Trek Criterion for Identifiability of Latent Variable Models** \
