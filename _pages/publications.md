@@ -36,8 +36,8 @@ with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
-*To appear in The Journal of the Royal Statistical Society, Series B.* \
-[arXiv](https://arxiv.org/abs/2208.11756)
+*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024.* \
+[paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
 
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
