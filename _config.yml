@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Nils Sturma"
-  avatar           : "Foto_NilsSturma.jpg"
+  avatar           : "Nils.png"
   bio              : "PhD Student in Mathematical Statistics, TU Munich"
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pLhbSv4AAAAJ&hl=en"
-  email            :
+  email            : "nils.sturma@tum.de" 
   researchgate     : "https://www.researchgate.net/profile/Nils-Sturma"
   uri              :
   bitbucket        :

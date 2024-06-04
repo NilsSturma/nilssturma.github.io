@@ -17,15 +17,9 @@ author_profile: true
 
 # Preprints
 
-**Mixtures of Discrete Decomposable Graphical Models** \
-with Yulia Alexandr and Jane Ivy Coons. \
-[arXiv](https://arxiv.org/abs/2401.15950) 
-
-
 **Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices** \
 with Dennis Leung. \
 [arXiv](https://arxiv.org/abs/2401.02112) 
-
 
 **Algebraic Sparse Factor Analysis** \
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
@@ -34,9 +28,15 @@ with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 
 # Publications
 
+**Mixtures of Discrete Decomposable Graphical Models** \
+with Yulia Alexandr and Jane Ivy Coons. \
+*To appear in Algebraic Statistics.* \ 
+[arXiv](https://arxiv.org/abs/2401.15950) 
+
+
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
-*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024.* \
+*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024, page qkae022* \
 [paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
 
 **Unpaired Multi-Domain Causal Representation Learning** \
