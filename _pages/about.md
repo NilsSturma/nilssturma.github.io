@@ -14,10 +14,10 @@ I was lucky enough to visit MIT and Broad Institute during fall semester 2022, w
 
 Interests
 ======
-* Algebraic Statistics
 * Causal Inference
 * Graphical Models
 * High-dimensional Statistics
+* Algebraic Statistics
 
 Education
 ======
