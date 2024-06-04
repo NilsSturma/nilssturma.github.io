@@ -30,20 +30,18 @@ with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 
 **Mixtures of Discrete Decomposable Graphical Models** \
 with Yulia Alexandr and Jane Ivy Coons. \
-*To appear in Algebraic Statistics.* \ 
+*To appear in Algebraic Statistics.* \
 [arXiv](https://arxiv.org/abs/2401.15950) 
-
 
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
-*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024, page qkae022* \
+*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024, page qkae022.* \
 [paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
 
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
 *NeurIPS 2023, Spotlight paper.* \
 [paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
-
 
 **Half-Trek Criterion for Identifiability of Latent Variable Models** \
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
