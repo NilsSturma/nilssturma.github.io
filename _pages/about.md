@@ -12,6 +12,8 @@ I am a PhD Student at TU Munich, supervised by Mathias Drton. My research focuse
 
 I visited MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
+[Curriculum Vitae (09/2024)](https://nilssturma.github.io/files/cv.pdf)
+
 Interests
 ======
 * Causal Inference
