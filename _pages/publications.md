@@ -35,7 +35,7 @@ with Yulia Alexandr and Jane Ivy Coons. \
 
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
-*Journal of the Royal Statistical Society Series B: Statistical Methodology, 2024, page qkae022.* \
+*Journal of the Royal Statistical Society Series B: Statistical Methodology,  2024, Vol. 86, No. 4, 987-1012.* \
 [paper](https://doi.org/10.1093/jrsssb/qkae022), [code](https://github.com/NilsSturma/TestGGM), [slides](https://nilssturma.github.io/files/presentation_testing_U_stats.pdf)
 
 **Unpaired Multi-Domain Causal Representation Learning** \

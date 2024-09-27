@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at TU Munich, supervised by Mathias Drton. My current research focuses on various aspects of graphical models. These models have multiple applications, for example, in the context of causal discovery. Among other things, the aim is to investigate under which circumstances observational data allows conclusions about causal relationships. To tackle problems in statistics, I particularly like to use methods from algebraic geometry.
+I am a PhD Student at TU Munich, supervised by Mathias Drton. My research focuses on various aspects of graphical models. The models have a wide range of applications, for example, in the context of causal inference. Among other things, the aim is to investigate under which circumstances observational data allows conclusions about causal relationships. To tackle problems in statistics, I particularly like to use methods from algebraic geometry.
 
-I was lucky enough to visit MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
+I visited MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
 Interests
 ======
@@ -21,6 +21,6 @@ Interests
 
 Education
 ======
-* MSc in Mathematical Finance and Actuarial Science, 2021, *TU Munich, Germany*
-* BSc in Mathematics, 2018, *University of Freiburg, Germany*
+* Master in Mathematical Finance and Actuarial Science, 2021, *TU Munich, Germany*
+* Bachelor in Mathematics, 2018, *University of Freiburg, Germany*
 * Two semesters abroad at University of Seville (Spain) and University of Melbourne (Australia)
