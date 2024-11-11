@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Bernoulli-IMS World Congress in Probability and Statistics, Bochum, Germany (2024)
+Invited talk: Identifiability in Sparse Factor Analysis. 
+
+### Statistics Seminar, University of Melbourne, Australia (2024)
+Invited talk: Identifiability in Sparse Factor Analysis. 
+
 ### NeurIPS, New Orleans, USA (2023)
 Poster presentation: Unpaired Multi-Domain Causal Representation Learning \
 [Poster](https://nilssturma.github.io/files/multi_domain_crl.pdf)
