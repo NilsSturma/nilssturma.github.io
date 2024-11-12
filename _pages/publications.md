@@ -47,3 +47,9 @@ with Chandler Squires, Mathias Drton and Caroline Uhler. \
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
 *The Annals of Statistics, 2022, Vol. 50, No. 6, 3174–3196.* \
 [paper](https://doi.org/10.1214/22-AOS2221), [code](https://github.com/Lucaweihs/SEMID), [slides](https://nilssturma.github.io/files/LF_HTC_presentation_IMS.pdf)
+
+
+# PhD Thesis
+**Identifiability and Statistical Inference in Latent Variable Modeling** \
+*2024* \
+[thesis](https://mediatum.ub.tum.de/?id=1745362)
