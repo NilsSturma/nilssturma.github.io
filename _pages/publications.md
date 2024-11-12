@@ -50,6 +50,4 @@ with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
 
 
 # PhD Thesis
-**Identifiability and Statistical Inference in Latent Variable Modeling** \
-*2024* \
-[thesis](https://mediatum.ub.tum.de/?id=1745362)
+[Identifiability and Statistical Inference in Latent Variable Modeling](https://mediatum.ub.tum.de/?id=1745362), 2024.
