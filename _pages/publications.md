@@ -21,17 +21,19 @@ author_profile: true
 with Dennis Leung. \
 [arXiv](https://arxiv.org/abs/2401.02112) 
 
-**Algebraic Sparse Factor Analysis** \
-with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
-[arXiv](https://arxiv.org/abs/2312.14762) 
 
 
 # Publications
 
+**Algebraic Sparse Factor Analysis** \
+with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
+*To appear in SIAM Journal on Applied Algebra and Geometry.* \
+[arXiv](https://arxiv.org/abs/2312.14762)[code](https://mathrepo.mis.mpg.de/sparse-factor-analysis) 
+
 **Mixtures of Discrete Decomposable Graphical Models** \
 with Yulia Alexandr and Jane Ivy Coons. \
-*To appear in Algebraic Statistics.* \
-[arXiv](https://arxiv.org/abs/2401.15950) 
+*Algebraic Statistics, 2024, Vol. 15, No. 2, 269-293.* \
+[paper](https://doi.org/10.2140/astat.2024.15.269) 
 
 **Testing Many Constraints in Possibly Irregular Models Using Incomplete U-Statistics** \
 with Mathias Drton and Dennis Leung. \
