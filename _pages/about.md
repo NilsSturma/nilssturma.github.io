@@ -12,7 +12,7 @@ I am a mathematical statistician working at TU Munich in the group of Mathias Dr
 
 I visited MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
-[Curriculum Vitae (09/2024)](https://nilssturma.github.io/files/cv.pdf)
+[Curriculum Vitae (01/2025)](https://nilssturma.github.io/files/cv.pdf)
 
 Interests
 ======
