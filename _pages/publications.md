@@ -17,10 +17,13 @@ author_profile: true
 
 # Preprints
 
+**Matching Criterion for Identifiability in Sparse Factor Analysis** \
+with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
+[arXiv](http://arxiv.org/abs/2502.02986) 
+
 **Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices** \
 with Dennis Leung. \
 [arXiv](https://arxiv.org/abs/2401.02112) 
-
 
 
 # Publications
