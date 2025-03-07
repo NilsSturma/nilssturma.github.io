@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Statistics Seminar, University College Dublin, Ireland (2025)
+Invited talk: Identifiability in Sparse Factor Analysis. \
+[Slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf)
+
 ### Bernoulli-IMS World Congress in Probability and Statistics, Bochum, Germany (2024)
 Invited talk: Identifiability in Sparse Factor Analysis. 
 

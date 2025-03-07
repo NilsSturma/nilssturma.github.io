@@ -12,7 +12,9 @@ I am a mathematical statistician working at TU Munich in the group of Mathias Dr
 
 I visited MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
-[Curriculum Vitae (01/2025)](https://nilssturma.github.io/files/cv.pdf)
+I will start a postdoc at EPFL in September 2025, working with Mats Stensrud and Victor Panaretos.
+
+[Curriculum Vitae (03/2025)](https://nilssturma.github.io/files/cv.pdf)
 
 Interests
 ======
