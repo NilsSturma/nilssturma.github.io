@@ -31,7 +31,7 @@ with Dennis Leung. \
 **Algebraic Sparse Factor Analysis** \
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
 *SIAM Journal on Applied Algebra and Geometry, 2025, Vol. 9, No. 2, 279-309.* \
-[arXiv](https://arxiv.org/abs/2312.14762), [code](https://mathrepo.mis.mpg.de/sparse-factor-analysis) 
+[paper](https://doi.org/10.1137/23M1626517), [code](https://mathrepo.mis.mpg.de/sparse-factor-analysis) 
 
 **Mixtures of Discrete Decomposable Graphical Models** \
 with Yulia Alexandr and Jane Ivy Coons. \
