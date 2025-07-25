@@ -14,7 +14,7 @@ I visited MIT and Broad Institute during fall semester 2022, where I worked with
 
 I will start a postdoc at EPFL in September 2025, working with Mats Stensrud and Victor Panaretos.
 
-[Curriculum Vitae (05/2025)](https://nilssturma.github.io/files/cv.pdf)
+[Curriculum Vitae (07/2025)](https://nilssturma.github.io/files/cv.pdf)
 
 Interests
 ======
