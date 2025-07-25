@@ -17,6 +17,10 @@ author_profile: true
 
 # Preprints
 
+**Trek-Based Parameter Identification for Linear Causal Models With Arbitrarily Structured Latent Variables** \
+with Mathias Drton. \
+[arXiv](https://arxiv.org/abs/2507.18170) 
+
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
 with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
 [arXiv](http://arxiv.org/abs/2502.02986) 
