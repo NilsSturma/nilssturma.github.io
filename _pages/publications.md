@@ -19,11 +19,11 @@ author_profile: true
 
 **Trek-Based Parameter Identification for Linear Causal Models With Arbitrarily Structured Latent Variables** \
 with Mathias Drton. \
-[arXiv](https://arxiv.org/abs/2507.18170) 
+[arXiv](https://arxiv.org/abs/2507.18170), [code](https://github.com/NilsSturma/LSC)
 
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
 with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
-[arXiv](http://arxiv.org/abs/2502.02986) 
+[arXiv](http://arxiv.org/abs/2502.02986), [code](https://github.com/MiriamKranzlmueller/id-factor-analysis), [slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf) 
 
 **Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices** \
 with Dennis Leung. \
@@ -50,7 +50,7 @@ with Mathias Drton and Dennis Leung. \
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
 *NeurIPS 2023, Spotlight paper.* \
-[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf) 
+[paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf), [slides](https://nilssturma.github.io/files/presentation_Tuebingen.pdf)
 
 **Half-Trek Criterion for Identifiability of Latent Variable Models** \
 with Rina Foygel Barber, Mathias Drton and Luca Weihs. \
