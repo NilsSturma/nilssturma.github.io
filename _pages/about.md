@@ -28,4 +28,3 @@ Education
 * PhD in Mathematical Statistics, 2024, Advisor: Mathias Drton, *TU Munich, Germany*
 * Master in Mathematical Finance and Actuarial Science, 2021, *TU Munich, Germany*
 * Bachelor in Mathematics, 2018, *University of Freiburg, Germany*
-* Two semesters abroad at University of Seville (Spain) and University of Melbourne (Australia)
