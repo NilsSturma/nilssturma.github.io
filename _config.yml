@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nils Sturma"
 title_separator          : "-"
 name                     : &name "Nils Sturma"
-description              : &description "PhD Student in Statistics"
+description              : &description "Postdoctoral Researcher in Statistics"
 url                      : https://nilssturma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NilsSturma/nilssturma.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nils Sturma"
   avatar           : "Nils.png"
-  bio              : "Mathematical Statistician working at TU Munich"
+  bio              : "Mathematical Statistician working at EPFL"
   location         : "Munich, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
