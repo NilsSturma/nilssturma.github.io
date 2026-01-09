@@ -21,16 +21,17 @@ author_profile: true
 with Mathias Drton. \
 [arXiv](https://arxiv.org/abs/2507.18170), [code](https://github.com/NilsSturma/LSC)
 
-**Matching Criterion for Identifiability in Sparse Factor Analysis** \
-with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
-[arXiv](http://arxiv.org/abs/2502.02986), [code](https://github.com/MiriamKranzlmueller/id-factor-analysis), [slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf) 
-
 **Singularity-agnostic Incomplete U-statistics for Testing Polynomial Constraints in Gaussian Covariance Matrices** \
 with Dennis Leung. \
 [arXiv](https://arxiv.org/abs/2401.02112) 
 
 
 # Publications
+
+**Matching Criterion for Identifiability in Sparse Factor Analysis** \
+with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
+*Accepted to Psychometrika.* \
+[arXiv](http://arxiv.org/abs/2502.02986), [code](https://github.com/MiriamKranzlmueller/id-factor-analysis), [slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf) 
 
 **Algebraic Sparse Factor Analysis** \
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \

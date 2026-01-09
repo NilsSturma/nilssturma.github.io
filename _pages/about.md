@@ -14,7 +14,7 @@ My research focuses on various aspects of graphical models. The models have a wi
 
 I visited MIT and Broad Institute during fall semester 2022, where I worked with Caroline Uhler.
 
-[Curriculum Vitae (09/2025)](https://nilssturma.github.io/files/cv.pdf)
+[Curriculum Vitae (12/2025)](https://nilssturma.github.io/files/cv.pdf)
 
 Interests
 ======

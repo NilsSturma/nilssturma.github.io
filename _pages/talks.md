@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+###  IMS International Conference on Statistics and Data Science, Seville, Spain (2025)
+Contributed talk: Matching Criterion for Identifiability in Sparse Factor Analysis. \
+[Slides](https://nilssturma.github.io/files/ICSDS-handout.pdf)
+
 ### Statistics Seminar, University College Dublin, Ireland (2025)
 Invited talk: Identifiability in Sparse Factor Analysis. \
 [Slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf)
