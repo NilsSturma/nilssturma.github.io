@@ -5,13 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+### Statistics Seminar, Binghamton University, USA (2026)
+Invited talk: Matching Criterion for Identifiability in Sparse Factor Analysis. \
+[Slides](https://nilssturma.github.io/files/Binghamton-seminar.pdf)
+
 ###  IMS International Conference on Statistics and Data Science, Seville, Spain (2025)
 Contributed talk: Matching Criterion for Identifiability in Sparse Factor Analysis. \
 [Slides](https://nilssturma.github.io/files/ICSDS-handout.pdf)
 
 ### Statistics Seminar, University College Dublin, Ireland (2025)
 Invited talk: Identifiability in Sparse Factor Analysis. \
-[Slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf)
 
 ### Bernoulli-IMS World Congress in Probability and Statistics, Bochum, Germany (2024)
 Invited talk: Identifiability in Sparse Factor Analysis. 
