@@ -31,7 +31,7 @@ with Dennis Leung. \
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
 with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
 *Accepted to Psychometrika.* \
-[paper](https://doi.org/10.1017/psy.2026.10079), [code](https://github.com/Lucaweihs/SEMID), [experiments](https://github.com/MiriamKranzlmueller/id-factor-analysis), [slides](https://nilssturma.github.io/files/Dublin_Nils_Handout.pdf) 
+[paper](https://doi.org/10.1017/psy.2026.10079), [code](https://github.com/Lucaweihs/SEMID), [experiments](https://github.com/MiriamKranzlmueller/id-factor-analysis), [slides](https://nilssturma.github.io/files/Binghamton-seminar.pdf) 
 
 **Algebraic Sparse Factor Analysis** \
 with Mathias Drton, Alexandros Grosdos and Irem Portakal. \
