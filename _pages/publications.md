@@ -17,6 +17,10 @@ author_profile: true
 
 # Preprints
 
+**Mapping the causal structure of price formation in Texas’s transitioning electricity market** \
+with Shiva Madadkhani, Mathias Drton and Svetlana Ikonnikova. \
+[arXiv](https://arxiv.org/abs/2604.14257)
+
 **Trek-Based Parameter Identification for Linear Causal Models With Arbitrarily Structured Latent Variables** \
 with Mathias Drton. \
 [arXiv](https://arxiv.org/abs/2507.18170), [code](https://github.com/NilsSturma/LSC)

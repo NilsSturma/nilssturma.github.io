@@ -4,6 +4,10 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+### European Causal Inference Meeting, Oxford, UK (2026)
+Poster Presentation: Trek-Based Parameter Identification for Linear Causal Models
+With Arbitrarily Structured Latent Variables \
+[Poster](https://nilssturma.github.io/files/LSC_poster.pdf)
 
 ### Statistics Seminar, Binghamton University, USA (2026)
 Invited talk: Matching Criterion for Identifiability in Sparse Factor Analysis. \
@@ -14,7 +18,7 @@ Contributed talk: Matching Criterion for Identifiability in Sparse Factor Analys
 [Slides](https://nilssturma.github.io/files/ICSDS-handout.pdf)
 
 ### Statistics Seminar, University College Dublin, Ireland (2025)
-Invited talk: Identifiability in Sparse Factor Analysis. \
+Invited talk: Identifiability in Sparse Factor Analysis. 
 
 ### Bernoulli-IMS World Congress in Probability and Statistics, Bochum, Germany (2024)
 Invited talk: Identifiability in Sparse Factor Analysis. 
