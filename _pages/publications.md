@@ -17,6 +17,10 @@ author_profile: true
 
 # Preprints
 
+**Efficient Symbolic Computations for Identifying Causal Effects** \
+with Benjamin Hollering and Pratik Misra. \
+[arXiv](https://arxiv.org/abs/2604.20516)
+
 **Mapping the causal structure of price formation in Texas’s transitioning electricity market** \
 with Shiva Madadkhani, Mathias Drton and Svetlana Ikonnikova. \
 [arXiv](https://arxiv.org/abs/2604.14257)
