@@ -21,7 +21,7 @@ author_profile: true
 with Benjamin Hollering and Pratik Misra. \
 [arXiv](https://arxiv.org/abs/2604.20516)
 
-**Mapping the causal structure of price formation in Texas’s transitioning electricity market** \
+**Mapping the Causal Structure of Price Formation in Texas’s Transitioning Electricity Market** \
 with Shiva Madadkhani, Mathias Drton and Svetlana Ikonnikova. \
 [arXiv](https://arxiv.org/abs/2604.14257)
 
