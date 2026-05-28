@@ -19,7 +19,7 @@ author_profile: true
 
 **Identifying Direct Causal Effects in Latent Factor Models by Accounting for Unidentified Parents** \
 with Tom Hochsprung, Jakob Runge, Mathias Drton and Andreas Gerhardus. \
-[arXiv](https://arxiv.org/abs/2605.28105.)
+[arXiv](https://arxiv.org/abs/2605.28105.), [code](https://gitlab.com/dlr-dw/elfhtc)
 
 **Efficient Symbolic Computations for Identifying Causal Effects** \
 with Benjamin Hollering and Pratik Misra. \
