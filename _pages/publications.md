@@ -18,7 +18,7 @@ author_profile: true
 # Preprints
 
 **Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models** \
-with Leopold Mareis and Mathias Drton.
+with Leopold Mareis and Mathias Drton. \
 [arXiv](https://arxiv.org/abs/2606.26931)
 
 **Identifying Direct Causal Effects in Latent Factor Models by Accounting for Unidentified Parents** \
