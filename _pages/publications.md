@@ -17,10 +17,6 @@ author_profile: true
 
 # Preprints
 
-**Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models** \
-with Leopold Mareis and Mathias Drton. \
-[arXiv](https://arxiv.org/abs/2606.26931)
-
 **Identifying Direct Causal Effects in Latent Factor Models by Accounting for Unidentified Parents** \
 with Tom Hochsprung, Jakob Runge, Mathias Drton and Andreas Gerhardus. \
 [arXiv](https://arxiv.org/abs/2605.28105.), [code](https://gitlab.com/dlr-dw/elfhtc)
@@ -43,6 +39,11 @@ with Dennis Leung. \
 
 
 # Publications
+
+**Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models** \
+with Leopold Mareis and Mathias Drton. \
+*Accepted at PGM 2026, Oral presentation.* \
+[arXiv](https://arxiv.org/abs/2606.26931)
 
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
 with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
