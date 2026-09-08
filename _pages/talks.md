@@ -4,6 +4,12 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+### European Meeting of Statisticians, Lugano, Switzerland (2026)
+Contributed talk: Trek-Based Parameter Identification for Linear Causal Models With Arbitrarily Structured Latent Variables. \
+[Slides](https://nilssturma.github.io/files/presentation-Lugano-handout.pdf)
+
+
 ### European Causal Inference Meeting, Oxford, UK (2026)
 Poster Presentation: Trek-Based Parameter Identification for Linear Causal Models
 With Arbitrarily Structured Latent Variables \
