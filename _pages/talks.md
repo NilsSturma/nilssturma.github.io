@@ -12,7 +12,7 @@ Contributed talk: Trek-Based Parameter Identification for Linear Causal Models W
 
 ### European Causal Inference Meeting, Oxford, UK (2026)
 Poster Presentation: Trek-Based Parameter Identification for Linear Causal Models
-With Arbitrarily Structured Latent Variables \
+With Arbitrarily Structured Latent Variables. \
 [Poster](https://nilssturma.github.io/files/LSC_poster.pdf)
 
 ### Statistics Seminar, Binghamton University, USA (2026)
