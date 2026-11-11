@@ -42,7 +42,7 @@ with Dennis Leung. \
 
 **Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models** \
 with Leopold Mareis and Mathias Drton. \
-*Proceedings of the 13th International Conferenceon Probabilistic Graphical Models (PGM), 2026, Vol. 343, 575-598, oral presentation.* \
+*Proceedings of the 13th International Conference on Probabilistic Graphical Models (PGM), 2026, Vol. 343, 575-598, oral presentation.* \
 [paper](https://proceedings.mlr.press/v343/mareis26a.html), [code](https://zenodo.org/records/21649509)
 
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
