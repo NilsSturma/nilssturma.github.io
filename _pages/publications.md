@@ -42,8 +42,8 @@ with Dennis Leung. \
 
 **Semiparametric Inference for Half-Trek Estimators in Linear Structural Equation Models** \
 with Leopold Mareis and Mathias Drton. \
-*Accepted at PGM 2026, Oral presentation.* \
-[arXiv](https://arxiv.org/abs/2606.26931)
+*Proceedings of the 13th International Conferenceon Probabilistic Graphical Models (PGM), 2026, Vol. 343, 575-598, oral presentation.* \
+[paper](https://proceedings.mlr.press/v343/mareis26a.html), [code](https://zenodo.org/records/21649509)
 
 **Matching Criterion for Identifiability in Sparse Factor Analysis** \
 with Miriam Kranzlmueller, Irem Portakal and Mathias Drton. \
@@ -67,7 +67,7 @@ with Mathias Drton and Dennis Leung. \
 
 **Unpaired Multi-Domain Causal Representation Learning** \
 with Chandler Squires, Mathias Drton and Caroline Uhler. \
-*NeurIPS 2023, Spotlight paper.* \
+*Advances in Neural Information Processing Systems (NeurIPS), 2023, Vol. 36, 34465-34492, spotlight paper.* \
 [paper](https://papers.nips.cc/paper_files/paper/2023/hash/6c8985579293e0209bdaa4f21bb1d237-Abstract-Conference.html), [code](https://github.com/NilsSturma/multi-domain-crl), [poster](https://nilssturma.github.io/files/multi_domain_crl.pdf), [slides](https://nilssturma.github.io/files/presentation_Tuebingen.pdf)
 
 **Half-Trek Criterion for Identifiability of Latent Variable Models** \
